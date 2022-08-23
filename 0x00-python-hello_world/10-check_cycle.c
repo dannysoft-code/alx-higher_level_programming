@@ -1,6 +1,3 @@
-: set paste
-i
-
 #include <stdlib.h>
 #include "lists.h"
 
