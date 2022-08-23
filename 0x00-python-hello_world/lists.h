@@ -1,5 +1,3 @@
-: set paste
-i
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -13,6 +11,7 @@ i
  * Description: singly linked list node structure
  * for Holberton project
  */
+
 typedef struct listint_s
 {
 int n;
